@@ -1,0 +1,160 @@
+﻿Region_Name;District_Name;PopulationSegment;Population;ZBox_Count
+Středočeský kraj;Mělník;Small;58766;50
+Plzeňský kraj;Plzeň-město;Small;20414;8
+Olomoucký kraj;Olomouc;Small;112135;56
+Ústecký kraj;Chomutov;Small;25261;18
+Pardubický kraj;Svitavy;Small;78068;42
+Pardubický kraj;Ústí nad Orlicí;Small;96758;63
+Jihomoravský kraj;Brno-venkov;Small;222129;121
+Jihočeský kraj;Písek;Small;41865;16
+Středočeský kraj;Praha-západ;Small;150143;66
+Jihomoravský kraj;Vyškov;Small;74579;43
+Zlínský kraj;Zlín;Small;100445;58
+Jihomoravský kraj;Blansko;Small;78650;45
+Moravskoslezský kraj;Frýdek-Místek;Small;126395;54
+Jihočeský kraj;Jindřichův Hradec;Small;69499;37
+Zlínský kraj;Uherské Hradiště;Small;100359;46
+Královéhradecký kraj;Rychnov nad Kněžnou;Small;69442;36
+Moravskoslezský kraj;Nový Jičín;Small;96508;39
+Jihomoravský kraj;Znojmo;Small;81950;48
+Plzeňský kraj;Plzeň-sever;Small;83421;36
+Královéhradecký kraj;Hradec Králové;Small;73995;36
+Pardubický kraj;Pardubice;Small;78389;37
+Středočeský kraj;Praha-východ;Small;152576;81
+Olomoucký kraj;Šumperk;Small;81425;41
+Pardubický kraj;Chrudim;Small;83175;34
+Jihomoravský kraj;Hodonín;Small;106535;36
+Středočeský kraj;Kolín;Small;74502;52
+Kraj Vysočina;Žďár nad Sázavou;Small;87144;35
+Jihočeský kraj;České Budějovice;Small;104549;47
+Kraj Vysočina;Havlíčkův Brod;Small;72112;30
+Královéhradecký kraj;Náchod;Small;77876;32
+Středočeský kraj;Mladá Boleslav;Small;90052;49
+Karlovarský kraj;Cheb;Small;34391;14
+Královéhradecký kraj;Jičín;Small;64516;19
+Zlínský kraj;Kroměříž;Small;64765;36
+Středočeský kraj;Příbram;Small;85158;43
+Ústecký kraj;Litoměřice;Small;83680;48
+Ústecký kraj;Teplice;Small;49600;24
+Zlínský kraj;Vsetín;Small;78062;47
+Jihočeský kraj;Tábor;Small;69802;24
+Plzeňský kraj;Tachov;Small;43717;23
+Liberecký kraj;Semily;Small;58595;20
+Olomoucký kraj;Přerov;Small;68619;25
+Liberecký kraj;Liberec;Small;72827;30
+Středočeský kraj;Kladno;Small;84454;59
+Moravskoslezský kraj;Bruntál;Small;51208;16
+Středočeský kraj;Beroun;Small;69863;43
+Karlovarský kraj;Karlovy Vary;Small;50005;32
+Moravskoslezský kraj;Karviná;Small;49818;10
+Jihomoravský kraj;Břeclav;Small;93965;46
+Jihočeský kraj;Český Krumlov;Small;49128;24
+Středočeský kraj;Rakovník;Small;40671;26
+Jihočeský kraj;Strakonice;Small;49242;16
+Plzeňský kraj;Plzeň-jih;Small;71593;30
+Jihočeský kraj;Prachatice;Small;40224;18
+Moravskoslezský kraj;Ostrava-město;Small;32821;8
+Olomoucký kraj;Jeseník;Small;26330;12
+Kraj Vysočina;Třebíč;Small;75706;33
+Ústecký kraj;Ústí nad Labem;Small;27091;20
+Moravskoslezský kraj;Opava;Small;106218;54
+Karlovarský kraj;Sokolov;Small;50866;18
+Liberecký kraj;Česká Lípa;Small;54615;20
+Ústecký kraj;Louny;Small;49800;33
+Liberecký kraj;Jablonec nad Nisou;Small;47086;16
+Plzeňský kraj;Klatovy;Small;53517;17
+Kraj Vysočina;Jihlava;Small;63742;18
+Středočeský kraj;Benešov;Small;74869;22
+Ústecký kraj;Děčín;Small;54158;23
+Královéhradecký kraj;Trutnov;Small;59911;33
+Plzeňský kraj;Domažlice;Small;44965;18
+Středočeský kraj;Kutná Hora;Small;46363;18
+Plzeňský kraj;Rokycany;Small;36418;14
+Kraj Vysočina;Pelhřimov;Small;46708;16
+Ústecký kraj;Most;Small;21558;12
+Středočeský kraj;Nymburk;Small;51903;39
+Olomoucký kraj;Prostějov;Small;65367;44
+Středočeský kraj;Benešov;Medium;28490;10
+Středočeský kraj;Beroun;Medium;31885;11
+Středočeský kraj;Kladno;Medium;16740;6
+Středočeský kraj;Kolín;Medium;33229;6
+Středočeský kraj;Kutná Hora;Medium;32068;9
+Středočeský kraj;Mělník;Medium;55349;12
+Olomoucký kraj;Olomouc;Medium;24415;9
+Středočeský kraj;Mladá Boleslav;Medium;46428;11
+Středočeský kraj;Nymburk;Medium;54648;16
+Středočeský kraj;Praha-východ;Medium;49491;11
+Středočeský kraj;Příbram;Medium;32992;3
+Zlínský kraj;Zlín;Medium;17597;4
+Středočeský kraj;Rakovník;Medium;15739;5
+Ústecký kraj;Most;Medium;22512;8
+Moravskoslezský kraj;Karviná;Medium;121319;15
+Jihočeský kraj;Jindřichův Hradec;Medium;20747;7
+Jihočeský kraj;Písek;Medium;30986;4
+Jihočeský kraj;Strakonice;Medium;22522;4
+Moravskoslezský kraj;Frýdek-Místek;Medium;34266;4
+Jihočeský kraj;Tábor;Medium;34370;9
+Olomoucký kraj;Prostějov;Medium;43563;15
+Plzeňský kraj;Klatovy;Medium;33721;7
+Olomoucký kraj;Přerov;Medium;59685;16
+Karlovarský kraj;Karlovy Vary;Medium;65178;15
+Liberecký kraj;Jablonec nad Nisou;Medium;46226;14
+Ústecký kraj;Chomutov;Medium;98686;29
+Plzeňský kraj;Tachov;Medium;14468;6
+Ústecký kraj;Děčín;Medium;72376;18
+Karlovarský kraj;Cheb;Medium;59833;15
+Královéhradecký kraj;Trutnov;Medium;57054;15
+Karlovarský kraj;Sokolov;Medium;34804;10
+Zlínský kraj;Vsetín;Medium;64239;19
+Jihomoravský kraj;Vyškov;Medium;20498;10
+Liberecký kraj;Česká Lípa;Medium;48895;8
+Ústecký kraj;Litoměřice;Medium;35806;10
+Kraj Vysočina;Třebíč;Medium;34797;7
+Ústecký kraj;Louny;Medium;37099;11
+Královéhradecký kraj;Jičín;Medium;16230;10
+Jihomoravský kraj;Znojmo;Medium;34160;7
+Královéhradecký kraj;Náchod;Medium;32577;13
+Královéhradecký kraj;Rychnov nad Kněžnou;Medium;11442;5
+Zlínský kraj;Kroměříž;Medium;39645;13
+Zlínský kraj;Uherské Hradiště;Medium;41377;13
+Pardubický kraj;Chrudim;Medium;23441;5
+Olomoucký kraj;Šumperk;Medium;38413;8
+Jihomoravský kraj;Břeclav;Medium;24863;7
+Pardubický kraj;Ústí nad Orlicí;Medium;41629;12
+Kraj Vysočina;Havlíčkův Brod;Medium;23746;5
+Jihomoravský kraj;Hodonín;Medium;45079;9
+Moravskoslezský kraj;Nový Jičín;Medium;55273;10
+Kraj Vysočina;Žďár nad Sázavou;Medium;32152;8
+Jihomoravský kraj;Blansko;Medium;32375;9
+Moravskoslezský kraj;Bruntál;Medium;37960;8
+Kraj Vysočina;Pelhřimov;Medium;27867;4
+Pardubický kraj;Svitavy;Medium;26601;4
+Moravskoslezský kraj;Opava;Medium;13421;5
+Ústecký kraj;Teplice;Medium;27359;7
+Liberecký kraj;Semily;Medium;14502;3
+Jihočeský kraj;Český Krumlov;Medium;12944;5
+Plzeňský kraj;Rokycany;Medium;14386;3
+Jihomoravský kraj;Brno-venkov;Medium;11400;2
+Jihočeský kraj;Prachatice;Medium;11250;3
+Plzeňský kraj;Domažlice;Medium;11155;1
+Olomoucký kraj;Jeseník;Medium;10619;4
+Středočeský kraj;Praha-západ;Medium;10483;1
+Pardubický kraj;Pardubice;Medium;10137;2
+Hlavní město Praha;Praha;Very large;1384732;189
+Středočeský kraj;Kladno;Large;69078;16
+Jihomoravský kraj;Brno-město;Very large;400566;78
+Plzeňský kraj;Plzeň-město;Very large;185599;31
+Moravskoslezský kraj;Ostrava-město;Very large;284765;55
+Liberecký kraj;Liberec;Very large;107982;31
+Olomoucký kraj;Olomouc;Very large;102293;29
+Jihočeský kraj;České Budějovice;Large;97377;17
+Královéhradecký kraj;Hradec Králové;Large;93906;24
+Pardubický kraj;Pardubice;Large;92362;18
+Ústecký kraj;Ústí nad Labem;Large;91342;18
+Zlínský kraj;Zlín;Large;74255;20
+Ústecký kraj;Most;Large;63882;18
+Moravskoslezský kraj;Karviná;Large;69694;16
+Moravskoslezský kraj;Opava;Large;55600;5
+Kraj Vysočina;Jihlava;Large;53986;8
+Moravskoslezský kraj;Frýdek-Místek;Large;53938;12
+Ústecký kraj;Teplice;Large;50959;9

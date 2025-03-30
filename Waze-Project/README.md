@@ -2,7 +2,7 @@
 
 Waze’s free navigation app makes it easier for drivers around the world to get to where they want to go. Waze’s community of map editors, beta testers, translators, partners, and users helps make each drive better and safer. Waze partners with cities, transportation authorities, broadcasters, businesses, and first responders to help as many people as possible travel more efficiently and safely.
 
-![Waze Logo](waze_logo_2020.png)
+![Waze Logo](https://upload.wikimedia.org/wikipedia/commons/e/e4/Waze_Logo_2020.png)
 
 ---
 

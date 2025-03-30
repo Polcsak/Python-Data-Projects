@@ -1,4 +1,20 @@
-Background of TikTok
-TikTok users have the ability to submit reports that identify videos and comments that contain user claims. These reports identify content that needs to be reviewed by moderators. The process generates a large number of user reports that are challenging to consider in a timely manner.
+# TikTok Case Study
 
-TikTok is working on the development of a predictive model that can determine whether a video contains a claim or offers an opinion. With a successful prediction model, TikTok can reduce the backlog of user reports and prioritize them more efficiently.
+This project focuses on analyzing TikTok data using Python and Jupyter Notebook. The main goal is to explore how different factors influence video performance on TikTok, such as the number of likes, comments, shares, and views.
+
+## Project Content
+
+- Data import and preprocessing
+- Exploratory Data Analysis (EDA)
+- Visualizations and insights
+- Conclusions and recommendations
+
+This project serves as a case study to better understand user behavior and engagement on the TikTok platform.
+
+## Technologies Used
+
+- Python
+- Jupyter Notebook
+- pandas
+- matplotlib
+- seaborn
